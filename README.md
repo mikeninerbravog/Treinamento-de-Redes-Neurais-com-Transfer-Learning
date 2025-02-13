@@ -1,5 +1,9 @@
 ### **README - Projeto Transfer Learning: Coca-Cola vs. Pepsi (DIO)**
 
+Aluno: Marcello S Bastos "Mike Niner Bravog"
+e-mail cadastro DIO: bravog.bot2@gmail.com
+Bootcamp: BairesDev - Machine Learning Practitioner - Fevereiro de 2025
+
 #### **Descrição:**
 Este projeto aplica Transfer Learning com a rede VGG16 para classificar imagens de Coca-Cola e Pepsi. 
 Foi desenvolvido no Google Colab e segue as exigências do enunciado para Prova de Conceito (Prova Final).
