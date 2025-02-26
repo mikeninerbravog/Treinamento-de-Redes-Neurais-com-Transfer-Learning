@@ -1,6 +1,6 @@
 ### **README - Projeto Transfer Learning: Coca-Cola vs. Pepsi (DIO)**
 
-- Aluno: Marcello S Bastos "Mike Niner Bravog"
+- Aluno: Marcello dos Santos "Mike Niner Bravog"
 - Bootcamp: BairesDev - Machine Learning Practitioner - Fevereiro de 2025
 
 #### **Descrição:**
